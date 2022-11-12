@@ -1,2 +1,0 @@
-python
-ibm_db2
