@@ -4,7 +4,7 @@ import os
 import ibm_db
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
-conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=824dfd4d-99de-440d-9991-629c01b3832d.bs2io90l08kqb1od8lcg.databases.appdomain.cloud;PORT=30119;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=tlf99662;PWD=Xcek6mxqCkEh6uRm", '', '')
+conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=;PORT=;SECURITY=;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=;PWD=", '', '')
 
 
 app = Flask(__name__)
