@@ -22,6 +22,6 @@ Integrating sendgrid service
 
 Deployment of cloud application
  
-Web Application URL : http://169.51.205.28:30307/
+Web Application URL : http://169.51.205.28:30459/
 
 
